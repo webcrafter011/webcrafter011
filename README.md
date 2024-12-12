@@ -34,6 +34,8 @@ Welcome to my GitHub profile! I'm a BCA student exploring the vast world of tech
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrafter011)](https://github.com/webcrafter011/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrafter011&hide=contribs,prs)
+
 ### 🌟 Fun Facts
 - I'm currently exploring project ideas for GSoC 2025.
 
