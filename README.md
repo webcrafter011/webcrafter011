@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a BCA student exploring the vast world of tech
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/manuj-chaudhari-54b7bb242/)
 - **Email**: manujchaudhari123@gmail.com
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webcrafter011&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### 🌟 Fun Facts
 - I'm currently exploring project ideas for GSoC 2025.
