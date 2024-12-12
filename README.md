@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a BCA student exploring the vast world of tech
 - **Email**: manujchaudhari123@gmail.com
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webcrafter011)](https://github.com/webcrafter011/github-readme-stats)
 
 ### 🌟 Fun Facts
 - I'm currently exploring project ideas for GSoC 2025.
