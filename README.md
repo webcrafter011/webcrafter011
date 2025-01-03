@@ -36,4 +36,4 @@ Welcome to my GitHub profile! I'm a BCA student exploring the vast world of tech
 ### 🌟 Fun Facts
 - I'm currently exploring project ideas for GSoC 2025.
 
-Thanks for visiting, and feel free to reach out if you'd like to connect or collaborate!
+Thanks for visiting, and feel free to reach out if you'd like to connect or collaborate.
