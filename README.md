@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! I'm a BCA student exploring the vast world of technology and computer science. Here, you'll find a mix of my personal projects, coursework, and contributions to open-source initiatives. I'm passionate about building practical solutions, improving my coding skills, and diving into new challenges.
 
 ---
+## [<center> Portfolio Website.</center>](www.manujchaudhari.me)
+
 
 ### 🔭 Current Projects
 - **Classroom Monitoring System**: A web app using Flask, ESP32, and P10 display modules that monitors lecture statuses and notifies teachers and students in real-time.
