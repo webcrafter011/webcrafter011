@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a BCA student exploring the vast world of tech
 ### 🔭 Current Projects
 - **Classroom Monitoring System**: A web app using Flask, ESP32, and P10 display modules that monitors lecture statuses and notifies teachers and students in real-time.
 - **Google Summer of Code (GSoC) Exploration**: I’m interested in contributing to Rocket.Chat and tracking issues like [#33853 (Jitsi Integration)](https://github.com/RocketChat/Rocket.Chat/issues/33853) to deepen my understanding.
-- **100 Days of Code Challenge**: Currently enhancing my Java skills with the MOOC’s Java Programming II course. (Day 16: Hashmaps, and hashcode methods.)
+- **100 Days of Code Challenge**: Currently enhancing my Java skills with the MOOCs Java Programming II course. (Day 16: Hashmaps, and hashcode methods.)
 
 ---
 
