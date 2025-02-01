@@ -1,7 +1,7 @@
 # Hi there, I'm Manuj Chaudhari! 👋
 
 Welcome to my GitHub profile! I'm a BCA student exploring the vast world of technology and computer science. Here, you'll find a mix of my personal projects, coursework, and contributions to open-source initiatives. I'm passionate about building practical solutions, improving my coding skills, and diving into new challenges.
-
+currently learning React js
 ---
 ## [<center>👆 My Portfolio Website.</center>](https://www.manujchaudhari.me/)
 
