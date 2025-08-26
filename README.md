@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a BCA student passionate about technology, cybersecurity, and web development. Here, you'll find a mix of my personal projects, coursework, and open-source contributions. I'm always eager to learn new technologies and build practical solutions.
 
 ## [<center>👆 My Portfolio Website.</center>](https://www.manujchaudhari.me/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 ### 🔭 Current Projects
 - **ResourceNation**: An online library for previous year question papers, built using Django.
