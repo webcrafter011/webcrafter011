@@ -3,8 +3,8 @@
 🎓 SYBCA student | 💻 Full-Stack Developer (MERN & Django) | 🔐 Cybersecurity Enthusiast  
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Unitbuckspro)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 ---
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=webcrafter011)
 
 ## 🚀 About Me  
 - 🌱 Currently working as a **Full-Stack Developer Intern @ Digital Guruji**  
