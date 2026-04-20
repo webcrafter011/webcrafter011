@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Manuj Chaudhari  
 
-🎓 SYBCA student | 💻 Full-Stack Developer (MERN & Django) | 🔐 Cybersecurity Enthusiast  
+💻 Full-Stack Developer (MERN & Django) | 🔐 Cybersecurity Enthusiast  
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Unitbuckspro)
 ---
@@ -11,7 +11,6 @@
 - 🛠️ Building **[ResourceNation](https://github.com/webcrafter011/Resourcenation-backend)** — a MERN stack web app for previous year question papers  
 - 💡 Exploring **DSA (100DaysOfCode)** and aiming for strong problem-solving skills  
 - 🔍 Interested in **Cybersecurity, Web Development, and System Design**  
-- 🖥️ Comfortable with both **Linux Mint** & **Windows**  
 
 ---
 
